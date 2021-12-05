@@ -12,7 +12,7 @@ We are using R for statistical modelling and hypothesis using the tidyverse and 
 # Results :
 After running the analysis, we were able to answer some important questions related to the problems faced in the Mechacar prototye.
 
-Aslo in Deliverable 4, we mentioned how we can take this analysis to an advancecd level by comparing vehicle performance of the MechaCar vehicles against vehicles from other manufacturers/competitors.
+Also in Deliverable 4, we mentioned how we can take this analysis to an advancecd level by comparing vehicle performance of the MechaCar vehicles against vehicles from other manufacturers/competitors.
 
 ## Deliverable 1: Linear Regression to Predict MPG
 Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
